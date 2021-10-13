@@ -53,3 +53,8 @@ While many "traditional" statistical methods have been tried, they all rely on k
 
 ## Contact Information
 [Mark Novak](https://novaklabosu.github.io) (mark.novak@oregonstate.edu)
+
+![](readme_imgs/patches.png)
+![](readme_imgs/species.png)
+![](readme_imgs/nucella_on_mytilus.png)
+![](readme_imgs/nucella_on_lottia.png)
