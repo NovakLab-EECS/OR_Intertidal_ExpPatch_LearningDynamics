@@ -39,7 +39,7 @@ The overarching questions are, (how) can we (best) describe and explain
  and/or
  (2) **the feeding rates of _Nucella ostrina_**  (_as a function of their prey species' abundances, their own abundance, temperature, time (season), and/or space_)?
 
-While many "traditional" statistical methods have been tried, they all rely on knowing/assuming the "right" predator-prey population-dynamics model (or set of hypothesized models) _a priori_ and fitting it to the data to estimate parameters. [Recent work](https://royalsocietypublishing.org/doi/10.1098/rspb.2018.0422), however, offers the tantalizing prospect of learning the "right" model from the data itself.
+While many "traditional" statistical methods have been tried, they all rely on knowing/assuming the "right" predator-prey population-dynamics model (or set of hypothesized models) _a priori_ and fitting it to the data to estimate parameters. However, recent work ([here](https://royalsocietypublishing.org/doi/10.1098/rspb.2018.0422) and [here](https://onlinelibrary.wiley.com/doi/10.1002/bies.201900069)), suggests the prospect of learning the "right" model from the data itself.
 
 
 ## Machine Learning Resources
