@@ -1,4 +1,4 @@
-# Fall 2021-Spring 2022 Development
+﻿# Fall 2021-Spring 2022 Development
 
 [Link to Github Repository](https://github.com/montsam/OR_Intertidal_ExpPatch_LearningDynamics/tree/main/CodeFreeze2022)
 
@@ -9,7 +9,7 @@ This project aims to create an accurate and comprehensible model to describe and
 As the development team was already using a group google drive for documentation coordination, they decided to use [Google Colaboratory](https://research.google.com/colaboratory/faq.html), an in-browser python notebook capable of allowing multiple programmers to work concurrently on python code. Attached below is a link to a google drive containing all documentation and Colab notebooks used to run the tests. 
 [Link to team drive](https://drive.google.com/drive/folders/1nQV2U_Dj1jwzslvPh9jWLsub_tL8sly2?usp=sharing) (must access with an OSU email).
 #### Google Drive Layout
-The linked drive houses two directories; *Documentation* and *Colab Notebooks*. The first directory in the shared drive houses findings over the course of the project along with the datasets used while the second houses the two notebooks we used to run our Symbolic Regression Models.
+The linked drive houses two directories which matches this repositories; *Documentation* and *Colab Notebooks*. The first directory in the shared drive houses findings and developped documents over the course of the project along with the datasets used while the second houses the two notebooks we used to run our Symbolic Regression Models.
 
 #### Libraries
 All required libraries are included in the imports section of the Google Colaboratory notebooks with some notable libraries listed below:
